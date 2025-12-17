@@ -25,7 +25,7 @@ This repository contains:
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/ntinyari765/Rust_Beginners_Toolkit.git
 cd Rust_Beginners_Toolkit
 
 # Navigate to the project
