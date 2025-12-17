@@ -1,0 +1,27 @@
+# Rust build artifacts (catches all nested Rust projects)
+**/target/
+**/*.rs.bk
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# Optional: If you add any Python scripts later
+__pycache__/
+*.pyc
